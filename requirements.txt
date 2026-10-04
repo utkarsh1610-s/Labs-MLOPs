@@ -1,0 +1,15 @@
+# Pinned environment for the clickbait notebooks (01/02/03_clickbait_*.ipynb).
+# Tested with Python 3.10 on macOS arm64. Snorkel 0.9.x and TensorFlow 2.15 do not support Python 3.12+.
+snorkel==0.9.9
+tensorflow==2.15.1
+torch==2.14.1
+spacy==3.8.16
+textblob==0.20.1
+nltk==3.10.3
+scikit-learn==1.7.2
+pandas==2.3.3
+numpy==1.26.4
+matplotlib==3.10.9
+pyarrow==25.0.1
+ipykernel==7.3.0
+jupyter==1.1.1
