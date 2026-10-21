@@ -1,0 +1,23 @@
+{
+    "timestamp": "20261021012416",
+    "n_test": 153,
+    "model": {
+        "accuracy": 0.8627,
+        "f1_score": 0.8627,
+        "roc_auc": 0.9004,
+        "brier_score": 0.1241
+    },
+    "calibration": {
+        "method": "sigmoid",
+        "n_calib": 153,
+        "brier_before": 0.1241,
+        "brier_after": 0.1179,
+        "brier_improvement": 0.0062,
+        "calibrated_model": {
+            "accuracy": 0.8562,
+            "f1_score": 0.8553,
+            "roc_auc": 0.9004,
+            "brier_score": 0.1179
+        }
+    }
+}
