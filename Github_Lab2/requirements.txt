@@ -1,0 +1,5 @@
+scikit-learn>=1.6
+numpy
+joblib
+mlflow
+pytest

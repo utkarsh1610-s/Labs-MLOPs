@@ -1,0 +1,4 @@
+# local MLflow tracking store (CI runs are recorded in metrics/ instead)
+mlruns/
+mlflow.db
+.pytest_cache/
