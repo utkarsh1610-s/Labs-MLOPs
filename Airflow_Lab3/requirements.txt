@@ -1,0 +1,4 @@
+# Extra packages baked into the Airflow image (see Dockerfile).
+# pandas, numpy, scikit-learn and joblib already ship with apache/airflow:3.3.2.
+kneed==0.9.0
+pytest==9.2.0

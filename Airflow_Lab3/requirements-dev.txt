@@ -1,0 +1,8 @@
+# Local environment for running the unit tests and scripts/make_dataset.py
+# outside Docker. Versions match what is inside apache/airflow:3.3.2 (Python 3.13).
+pandas==3.0.5
+numpy==2.5.3
+scikit-learn==1.9.1
+joblib==1.6.0
+kneed==0.9.0
+pytest==9.2.0

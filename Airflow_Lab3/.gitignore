@@ -1,0 +1,9 @@
+# created by setup.sh / Airflow at runtime
+.env
+logs/
+plugins/
+config/
+working_data/
+.venv/
+.pytest_cache/
+__pycache__/
